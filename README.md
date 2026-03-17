@@ -122,6 +122,7 @@ scoop config aria2-min-split-size 4M
 |            [scihubeva](https://github.com/leovan/SciHubEVA)            |       ✓       | by @leovan |
 |                   [texlive](https://tug.org/texlive)                   |       ✓       |            |
 |                       [tropy](https://tropy.org)                       |       ✓       |            |
+|                      [zlibrary](https://1lib.sk)                       |       ✓       |            |
 
 #### Development Tools
 
