@@ -134,13 +134,14 @@ scoop config aria2-min-split-size 4M
 
 ### Win-Only
 
-|                                    App                                     | Auto-Update ? | Note |
-|:--------------------------------------------------------------------------:|:-------------:|:----:|
-|    [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode)    |       ✓       |      |
-|     [configure-defender](https://github.com/AndyFul/ConfigureDefender)     |       ✓       |      |
+|                             App                              | Auto-Update ? | Note |
+| :----------------------------------------------------------: | :-----------: | :--: |
+| [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode) |       ✓       |      |
+| [configure-defender](https://github.com/AndyFul/ConfigureDefender) |       ✓       |      |
 | [defender-remover](https://github.com/ionuttbara/windows-defender-remover) |       ✓       |      |
-|               [fancywm](https://github.com/FancyWM/fancywm)                |       ✓       |      |
-|                [file-converter](https://file-converter.org)                |       ✓       |      |
-|             [jigdo](https://einval.com/~steve/software/jigdo)              |       ✓       |      |
-|                     [winhance](hhttps://winhance.net)                      |       ✓       |      |
-|         [wisecare365](https://wisecleaner.com/wise-care-365.html)          |       ✓       |      |
+|        [fancywm](https://github.com/FancyWM/fancywm)         |       ✓       |      |
+|         [file-converter](https://file-converter.org)         |       ✓       |      |
+|      [jigdo](https://einval.com/~steve/software/jigdo)       |       ✓       |      |
+|              [winhance](hhttps://winhance.net)               |       ✓       |      |
+|  [wisecare365](https://wisecleaner.com/wise-care-365.html)   |       ✓       |      |
+|        [catime](https://github.com/vladelaina/Catime)        |       ✓       |      |
